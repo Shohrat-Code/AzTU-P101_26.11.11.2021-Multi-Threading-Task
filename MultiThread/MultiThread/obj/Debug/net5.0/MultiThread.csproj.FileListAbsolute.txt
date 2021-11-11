@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\bin\Debug\net5.0\ref\MultiThread.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\obj\Debug\net5.0\ref\MultiThread.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\26.11.11.2021-Thread\Codes\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.genruntimeconfig.cache
